@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hummingbird from Poly by Google
+* source:	https://sketchfab.com/3d-models/hummingbird-from-poly-by-google-ab66ad6d8ad94a54bf50e7e166358cf3
+* author:	IronEqual (https://sketchfab.com/ie-niels)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hummingbird from Poly by Google" (https://sketchfab.com/3d-models/hummingbird-from-poly-by-google-ab66ad6d8ad94a54bf50e7e166358cf3) by IronEqual (https://sketchfab.com/ie-niels) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
